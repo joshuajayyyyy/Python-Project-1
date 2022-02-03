@@ -1,0 +1,90 @@
+Countries Most Sale Transactions:
+Guinea : 263
+Democratic Republic of the Congo : 257
+Cape Verde : 256
+Maldives : 253
+Trinidad and Tobago : 249
+Samoa  : 248
+United Arab Emirates : 247
+Sao Tome and Principe : 245
+China : 244
+Finland : 243
+... (Answer question) The country we should build our shipping center is Democratic Republic of the Congo because we have most number of sales in this country
+
+Sales Channels:
+Online : 24384
+Offline : 15954
+We do more online/offline sales.
+
+Order Priorities:
+M : 16054
+H : 12113
+L : 8092
+C : 4079
+We do more M/H/L/C order priorities.
+
+Highest Selling Items:
+Cosmetics : 2920219501.5299945
+Household : 2769602529.820008
+Office Supplies : 2110152978.75
+We sold Household most
+Countries Most Sale Transactions:
+Trinidad and Tobago : 321
+Guinea : 318
+Cape Verde : 314
+Maldives : 311
+Finland : 310
+Democratic Republic of the Congo : 308
+Samoa  : 306
+Malta : 305
+China : 303
+South Sudan : 302
+... (Answer question) The country we should build our shipping center is Guinea because we have most number of sales in this country
+
+Sales Channels:
+Online : 30183
+Offline : 19789
+We do more online/offline sales.
+
+Order Priorities:
+M : 19881
+H : 15095
+L : 9984
+C : 5012
+We do more M/H/L/C order priorities.
+
+Highest Selling Items:
+Cosmetics : 3638645299.3000035
+Household : 3401180998.060007
+Office Supplies : 2605440187.5
+We sold Household most
+Countries Most Sale Transactions:
+Trinidad and Tobago : 321
+Guinea : 318
+Cape Verde : 314
+Maldives : 311
+Finland : 310
+Democratic Republic of the Congo : 308
+Samoa  : 306
+Malta : 305
+China : 303
+South Sudan : 302
+... (Answer question) The country we should build our shipping center is Guinea because we have most number of sales in this country
+
+Sales Channels:
+Online : 30183
+Offline : 19789
+We do more online/offline sales.
+
+Order Priorities:
+M : 19881
+H : 15095
+L : 9984
+C : 5012
+We do more M/H/L/C order priorities.
+
+Highest Selling Items:
+Cosmetics : 3638645299.3000035
+Household : 3401180998.060007
+Office Supplies : 2605440187.5
+We sold Household most
